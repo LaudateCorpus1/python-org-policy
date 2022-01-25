@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-org-policy/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#113](https://github.com/googleapis/python-org-policy/issues/113)) ([90fa145](https://github.com/googleapis/python-org-policy/commit/90fa1459bfce8d8980fd8fd1767b8e83026e48a9))
+
 ### [1.2.1](https://www.github.com/googleapis/python-org-policy/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
